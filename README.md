@@ -1,5 +1,15 @@
-# Airhax
-
-Allows unsigned code execution on a official Sony PSP firmware using Air conflicts aces of  World War 2 
-
-This exploit was only to learn about PSP Exploitation. This really seems fun actually and much simplier than the DS. So yeah, this exploit is basically useless since there are much better exploits on the PSP/Vita. The exploit will only run a simple color flasher payload by Flankler. I did some small enhancements (I just added other colors). I'll add in a binary loader later once I fix some things.
+# Airhax - A Air Conflicts Aces of World War II stack smash exploit
+Allows unsigned code execution on a official Sony PSP firmware using Air Conflicts Aces of World War II
+###
+This exploit was only to learn about PSP Exploitation. The exploit will only run a simple
+color flasher payload by Flankler
+###
+# How do I trigger the exploit?
+* Open A Air Conflicts Aces of World War II 
+* Go to "Profiles"
+* press x
+###
+## Credits:
+* hackinformer (How to find a PSP Savegame Exploit without PSP) You can find it <a href="https://forum.hackinformer.com/viewtopic.php?t=685">here</a>.
+* Flankler (Original payload code)
+###
